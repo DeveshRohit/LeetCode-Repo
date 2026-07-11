@@ -34,4 +34,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
