@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0027-remove-element/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -38,4 +39,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0058-length-of-last-word/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
