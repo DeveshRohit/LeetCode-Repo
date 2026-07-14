@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0027-remove-element/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
+| [0704-binary-search](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
