@@ -10,12 +10,14 @@
 | [0035-search-insert-position](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0035-search-insert-position/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
