@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,10 +44,12 @@
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +65,16 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0704-binary-search/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
