@@ -9,8 +9,7 @@ class Solution:
                 profit = prices[r] - prices[l]
                 if max_profit < profit:
                     max_profit = profit
-                r += 1
             else:
                 l = r
-                r = l+1
+            r += 1
         return max_profit
