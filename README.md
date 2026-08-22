@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
@@ -64,6 +65,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0125-valid-palindrome/) | Easy |
@@ -102,4 +104,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0011-container-with-most-water/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
