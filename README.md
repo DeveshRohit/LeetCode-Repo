@@ -31,6 +31,7 @@
 | [0242-valid-anagram](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0567-permutation-in-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@
 | [0027-remove-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0567-permutation-in-string](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0567-permutation-in-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@
 | [0125-valid-palindrome](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0567-permutation-in-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +114,5 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
