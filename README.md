@@ -115,4 +115,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0567-permutation-in-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
