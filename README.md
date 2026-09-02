@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0739-daily-temperatures/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,8 +120,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
