@@ -20,6 +20,7 @@
 | [0347-top-k-frequent-elements](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@
 | [0035-search-insert-position](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
