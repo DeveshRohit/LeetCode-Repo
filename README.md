@@ -31,6 +31,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0242-valid-anagram/) | Easy |
@@ -49,6 +50,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0567-permutation-in-string/) | Medium |
 ## Divide and Conquer
@@ -142,10 +144,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/DeveshRohit/LeetCode-Repo/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
