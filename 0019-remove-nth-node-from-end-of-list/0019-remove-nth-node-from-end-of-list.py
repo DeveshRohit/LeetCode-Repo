@@ -5,31 +5,18 @@ class ListNode:
         self.next = next
 
 class Solution:
-    def reverseList(self, head: ListNode | None) -> ListNode | None:
-        prev = None
-        curr = head
-
-        while curr:
-            nxt = curr.next
-            curr.next = prev
-            prev = curr
-            curr = nxt
-        
-        return prev
-
     def removeNthFromEnd(self, head: ListNode | None, n: int) -> ListNode | None:
-        head = self.reverseList(head)
-        
-        curr = head
-        prev = None
+        dummy = ListNode(0, head)
 
-        for i in range(n-1):
-            prev = curr
-            curr = curr.next
+        slow = dummy
+        fast = dummy
 
-        if prev is None:
-            head = curr.next
-        else:
-            prev.next = curr.next
+        for _ in range(n):
+            fast = fast.next
 
-        return self.reverseList(head)
+        while fast.next:
+            slow = slow.next    # just before the node to be removed
+            fast = fast.next
+
+        slow.next = slow.next.next
+        return dummy.next
